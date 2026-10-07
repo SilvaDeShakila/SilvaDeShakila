@@ -46,114 +46,144 @@ I enjoy turning ideas into functional products, exploring new technologies, and 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
-# Selected Projects
+# Featured Projects
 
-## 🗳️ VoteX — Secure Voting System
+<table>
+<tr>
+<td width="50%">
 
-A secure mobile voting application designed to improve the reliability and accessibility of digital voting.
+### 🗳️ VoteX
 
-**Highlights**
+**Secure Voting System**
 
-* Voter authentication and verification
+A secure mobile voting application focused on voter verification and reliable digital voting.
+
+**Flutter · Dart · Firebase**
+
+**Key Features**
+
 * Email OTP verification
 * Face recognition
-* QR-based voter identification
-* Admin approval and verification
-* Firebase-based data management
+* QR-based identification
+* Voter verification
+* Admin approval
 
-**Tech:** Flutter · Dart · Firebase
+</td>
 
----
+<td width="50%">
 
-## 🍳 Smart Accessible Cooking Assistant
+### 🍳 Smart Accessible Cooking Assistant
 
-An accessibility-focused cooking assistant designed to make cooking more accessible through alternative interaction methods.
+An accessibility-focused cooking assistant designed around alternative interaction methods.
 
-**Highlights**
+**Flutter · Dart · Figma**
 
-* Voice-based interaction
+**Key Features**
+
+* Voice interaction
 * Gesture interaction
 * Haptic feedback
 * Accessible cooking guidance
-* Human-Computer Interaction focused design
+* HCI-focused design
 
-**Tech:** Flutter · Dart · Figma
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-## 🩺 Care Expert — Healthcare Consultation App
+### 🩺 Care Expert
 
-A mobile-first healthcare consultation application designed to help users discover healthcare services and manage appointments.
+**Healthcare Consultation App**
 
-**Highlights**
+A mobile-first healthcare application for discovering services and managing healthcare appointments.
 
-* User authentication
-* Healthcare service discovery
+**Flutter · Dart · Firebase**
+
+**Key Features**
+
+* Authentication
+* Service discovery
 * Appointment scheduling
-* Secure payment functionality
-* Mobile-first user experience
+* Payment functionality
+* Mobile-first UI
 
-**Tech:** Flutter · Dart · Firebase
+</td>
 
----
+<td width="50%">
 
-## 🚗 AutoForge
+### 🚗 AutoForge
 
-A modern vehicle management and marketplace application built to provide a structured platform for managing vehicle listings and related information.
+A modern vehicle management and marketplace application for managing vehicle listings and related information.
 
-**Highlights**
+**React · Supabase · PostgreSQL**
 
-* Vehicle listing management
-* Vehicle categories
+**Key Features**
+
+* Vehicle listings
+* Categories
 * Image handling
 * Authentication
-* Dashboard functionality
+* Dashboard
 * Database integration
 
-**Tech:** React · Supabase · PostgreSQL
+</td>
+</tr>
+</table>
 
 ---
 
-## 💰 Expense Tracker
+# More Projects
 
-A Flutter application for managing personal expenses and tracking spending across different categories.
+<table>
+<tr>
+<td width="33%">
 
-**Highlights**
+### 💰 Expense Tracker
 
-* Add, edit and delete expenses
-* Expense categories
-* Monthly expense totals
-* Expense history
-* Category and date filtering
-* Input validation
-* Firebase data storage
+A Flutter application for managing expenses and tracking spending.
 
-**Tech:** Flutter · Dart · Firebase · Cloud Firestore
+**Flutter · Dart · Firebase**
 
----
+* Expense CRUD
+* Categories
+* Monthly totals
+* History
+* Filtering
 
-## 🏨 Hotel Management System
+</td>
 
-A software solution designed to manage hotel-related operations and information through a centralized application.
+<td width="33%">
 
-**Highlights**
+### 🏨 Hotel Management System
 
-* Hotel management functionality
-* Structured data management
+A database-driven application designed to manage hotel-related operations and information.
+
+**Java · SQL**
+
+* Management functionality
+* Data management
 * User-focused interface
-* Database-driven application
+* Database integration
 
-**Tech:** Java · SQL
+</td>
 
----
+<td width="33%">
 
-## 🖥️ Smart Workspace
+### 🖥️ Smart Workspace
 
-A web-based workspace application designed to provide an organized environment for managing workspace-related activities and information.
+A web-based workspace application designed to organize workspace-related activities and information.
 
-**Tech:** React · JavaScript · Node.js · Express.js · Tailwind CSS
+**React · JavaScript · Node.js**
 
----
+* React frontend
+* REST backend
+* Workspace features
+* Responsive interface
+
+</td>
+</tr>
+</table>
 
 # Currently Building
 
