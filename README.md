@@ -46,13 +46,15 @@ I enjoy turning ideas into functional products, exploring new technologies, and 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
+---
+
 # Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🗳️ VoteX
+### 🗳️ <a href="https://github.com/SilvaDeShakila/voteapp">VoteX</a>
 
 **Secure Voting System**
 
@@ -60,13 +62,13 @@ A secure mobile voting application focused on voter verification and reliable di
 
 **Flutter · Dart · Firebase**
 
-**Key Features**
-
 * Email OTP verification
 * Face recognition
 * QR-based identification
 * Voter verification
 * Admin approval
+
+<a href="https://github.com/SilvaDeShakila/voteapp">View Repository →</a>
 
 </td>
 
@@ -78,13 +80,13 @@ An accessibility-focused cooking assistant designed around alternative interacti
 
 **Flutter · Dart · Figma**
 
-**Key Features**
-
 * Voice interaction
 * Gesture interaction
 * Haptic feedback
 * Accessible cooking guidance
 * HCI-focused design
+
+**Repository coming soon**
 
 </td>
 </tr>
@@ -96,11 +98,9 @@ An accessibility-focused cooking assistant designed around alternative interacti
 
 **Healthcare Consultation App**
 
-A mobile-first healthcare application for discovering services and managing healthcare appointments.
+A mobile-first healthcare application for discovering healthcare services and managing appointments.
 
 **Flutter · Dart · Firebase**
-
-**Key Features**
 
 * Authentication
 * Service discovery
@@ -108,17 +108,17 @@ A mobile-first healthcare application for discovering services and managing heal
 * Payment functionality
 * Mobile-first UI
 
+**Repository coming soon**
+
 </td>
 
 <td width="50%">
 
-### 🚗 AutoForge
+### 🚗 <a href="https://github.com/SilvaDeShakila/autoforge">AutoForge</a>
 
 A modern vehicle management and marketplace application for managing vehicle listings and related information.
 
 **React · Supabase · PostgreSQL**
-
-**Key Features**
 
 * Vehicle listings
 * Categories
@@ -126,6 +126,8 @@ A modern vehicle management and marketplace application for managing vehicle lis
 * Authentication
 * Dashboard
 * Database integration
+
+<a href="https://github.com/SilvaDeShakila/autoforge">View Repository →</a>
 
 </td>
 </tr>
@@ -139,7 +141,7 @@ A modern vehicle management and marketplace application for managing vehicle lis
 <tr>
 <td width="33%">
 
-### 💰 Expense Tracker
+### 💰 <a href="https://github.com/SilvaDeShakila/expense-tracker-flutter">Expense Tracker</a>
 
 A Flutter application for managing expenses and tracking spending.
 
@@ -151,11 +153,13 @@ A Flutter application for managing expenses and tracking spending.
 * History
 * Filtering
 
+<a href="https://github.com/SilvaDeShakila/expense-tracker-flutter">Repository →</a>
+
 </td>
 
 <td width="33%">
 
-### 🏨 Hotel Management System
+### 🏨 <a href="https://github.com/SilvaDeShakila/HotelManagementSystem">Hotel Management System</a>
 
 A database-driven application designed to manage hotel-related operations and information.
 
@@ -166,11 +170,13 @@ A database-driven application designed to manage hotel-related operations and in
 * User-focused interface
 * Database integration
 
+<a href="https://github.com/SilvaDeShakila/HotelManagementSystem">Repository →</a>
+
 </td>
 
 <td width="33%">
 
-### 🖥️ Smart Workspace
+### 🖥️ <a href="https://github.com/SilvaDeShakila/smart-workspace">Smart Workspace</a>
 
 A web-based workspace application designed to organize workspace-related activities and information.
 
@@ -181,42 +187,86 @@ A web-based workspace application designed to organize workspace-related activit
 * Workspace features
 * Responsive interface
 
+<a href="https://github.com/SilvaDeShakila/smart-workspace">Repository →</a>
+
 </td>
 </tr>
 </table>
 
+---
+
+# GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SilvaDeShakila&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaDeShakila&layout=compact&hide_border=true" height="165" />
+</p>
+---
 # Currently Building
 
-I’m currently strengthening my practical software engineering skills through hands-on development.
+### 🔐 Secure Voting System
 
-My current focus includes:
+Improving VoteX with stronger voter verification, authentication, and secure voting workflows.
 
-* Flutter application development
-* Firebase and cloud-based applications
-* Backend development
-* Full-stack development
-* Laravel
-* CI/CD
-* Clean and maintainable code
-* Git and collaborative development
+### 💼 Full-Stack Development
+
+Building practical applications with React, Node.js, Express.js, Firebase, Supabase, and PostgreSQL.
+
+### ⚙️ Software Engineering
+
+Strengthening clean code, Git workflows, REST APIs, database design, and application architecture.
+
+### 📱 Flutter Development
+
+Continuing to build responsive and production-oriented mobile applications with Flutter and Dart.
+
+---
+
+# Learning & Focus
+
+Currently strengthening my skills in:
+
+* **Laravel** — Backend development and MVC architecture
+* **CI/CD** — Development workflows, automation, and deployment practices
+* **REST APIs** — Designing and integrating backend services
+* **Database Design** — SQL, PostgreSQL, and Firebase
+* **Software Engineering** — Clean code, Git, testing, and maintainable application architecture
+* **Full-Stack Development** — Building complete applications from frontend to backend
 
 ---
 
 # Education
 
-### Bachelor of Information Technology (Hons.) in Software Engineering
+### 🎓 Bachelor of Information Technology (Hons.) in Software Engineering
 
-Information Technology undergraduate developing practical experience in mobile, web, backend, and full-stack software development.
+**ESOFT / ESOF University**
 
-**Expected Graduation:** March 2027
+Expected Graduation: **March 2027**
+
+Information Technology undergraduate building practical experience in mobile, web, and full-stack software development.
 
 ---
 
-# Let's Connect
+# Connect
 
-[LinkedIn](https://linkedin.com/in/shakila-de-silva-6516b225) · [GitHub](https://github.com/SilvaDeShakila)
+I’m open to internship and junior software engineering opportunities where I can contribute to real-world projects, learn from experienced developers, and continue growing as a software engineer.
 
-**Email:** [shakiladesilva274@gmail.com](mailto:shakiladesilva274@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/shakila-de-silva-6516b225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/SilvaDeShakila">
+    <img src="https://img.shields.io/badge/GitHub-SilvaDeShakila-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+### Open to
+
+* Software Engineering Internships
+* Junior Software Engineering Roles
+* Flutter / Mobile Development
+* Frontend / Backend Development
+* Full-Stack Development
 
 ---
 
