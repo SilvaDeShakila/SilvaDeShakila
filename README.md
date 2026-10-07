@@ -24,25 +24,27 @@ I enjoy turning ideas into functional products, exploring new technologies, and 
 
 ### Languages
 
-`Dart` `Java` `Python` `JavaScript` `C#` `SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,java,python,js,cs,sql" />
+</p>
 
-### Mobile Development
+### Mobile & Frontend
 
-`Flutter` `Dart`
-
-### Web Development
-
-`React` `JavaScript` `HTML` `CSS`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind" />
+</p>
 
 ### Backend & Database
 
-`Node.js` `Express.js` `Firebase` `Cloud Firestore` `Supabase` `PostgreSQL` `SQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,postgres,mysql" />
+</p>
 
-### Tools & Platforms
+### Tools
 
-`Git` `GitHub` `VS Code` `Android Studio` `Figma`
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
 
 # Selected Projects
 
